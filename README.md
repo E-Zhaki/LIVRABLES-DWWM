@@ -5,7 +5,7 @@ Livrables pour le titre professionnel **Développeur Web et Web Mobile (DWWM)**.
 ## Liens
 
 - **Site web** : https://palegoldenrod-snail-949194.hostingersite.com/
-- **GitHub** : https://github.com/E-Zhaki
+- **GitHub du projet** : https://github.com/E-Zhaki/projet-miftah-arabi
 
 ## Documents
 
